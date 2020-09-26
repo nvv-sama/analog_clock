@@ -56,12 +56,12 @@ body{
     /* absolute thiết lập vị trí nằm trên relative */
     position: absolute;
     /* vị trí cách trên 91px căn giữa trái 50%*/
-    top: 85px;
+    top: 100px;
     left: 50%;
     /* z-index chồng lên class clock */
     z-index: 5;
     /* transform-origin thiết lập gốc cho các phép biến đổi phần tử */
-    transform-origin: 100% 57px;
+    transform-origin: 50% 50px;
     /* khoảng cách giữa các phần tử ngoài border */
     margin-left: -2px;
     /* border trên của class hour trái và phải */
